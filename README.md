@@ -1,1 +1,1 @@
-# Netflix_Clone
+A responsive website mimicking the core features and design of Netflix, built using modern web development technologies. This project demonstrates front-end development skills and includes a rich user interface for browsing, searching, and streaming video content.
